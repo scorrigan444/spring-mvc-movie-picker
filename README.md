@@ -1,1 +1,1 @@
-# spring-mvc-movie-picker
+# spring-mvc-movie-app
